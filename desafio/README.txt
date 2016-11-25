@@ -16,7 +16,7 @@ Essa apresentação utiliza-se de:
 # Requisitos de funcionamento
 
   1 - Para que esse projeto funcione corretamente deve-se descompactar o arquivo
-  dentro da RAIZ -> htdos ou www depende  do Servidor.
+  dentro da RAIZ -> htdocs ou www depende  do Servidor.
 
   2 - Faça a importação no phpmyadmin do arquivo dentro da pasta do projeto
   chamado "desafio.sql" para criar o Database e as Tabelas.
